@@ -6,3 +6,5 @@
 6. Opened vs code on macbook, navigated to Documements via terminal in VSCODE, created a folder named "Untested Code" and cloned "JavascriptProject" from github. 
 7. Executed code . and new instance of vscode has opened within "UntestedCode" from documents. 
 8. So Turns out, you cant execute js file in vscode terminal, so you have to execute in a browser--developers settings--consoleTab to check if its working or not. 
+9. I pushed the code using UI of VS code and then check inside Github, all good.
+10.I am trying to push changes in steps.txt to check the workings on Git 
