@@ -1,0 +1,8 @@
+1. I created a repo on Github website directly. 
+2. Created a file directly in the repo and pasted code block on it and merge it in main. 
+3. merge request accepted. all done. 
+4. created a different branch for coding and committing purposes called as "UntestedCode" in repo "JavascriptProject" in Github.
+5. Pasted a small codeblock in  "UntestedCode" branch and saved it. 
+6. Opened vs code on macbook, navigated to Documements via terminal in VSCODE, created a folder named "Untested Code" and cloned "JavascriptProject" from github. 
+7. Executed code . and new instance of vscode has opened within "UntestedCode" from documents. 
+8. So Turns out, you cant execute js file in vscode terminal, so you have to execute in a browser--developers settings--consoleTab to check if its working or not. 
